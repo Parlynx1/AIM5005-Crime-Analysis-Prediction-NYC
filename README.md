@@ -6,7 +6,7 @@ This project aims to **predict crime severity** using **NYPD Complaint Data (Yea
 ---
 
 ## Dataset
-- **Source:**  [NYPD Complaint Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Current-Year-To-Date-/5uac-w243/about_data)
+- **Source:**  NYPD Complaint Data
 - **Description:**  
   - Crime reports from New York City.  
   - Includes details on crime type, location, time, and demographics.  
