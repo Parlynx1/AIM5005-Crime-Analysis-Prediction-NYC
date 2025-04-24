@@ -42,5 +42,5 @@ This project aims to **predict crime severity** using **NYPD Complaint Data (Yea
 ---
 
 ##  Installation and Usage
-1.  git clone: git@Parlynx1/AIM5005-Crime-Analysis-Prediction-NYC.git
+1.  git clonegit clone git@github.com:Parlynx1/AIM5005-Crime-Analysis-Prediction-NYC.git
 2.  cd -Crime-Analysis-Prediction-NYC
