@@ -41,6 +41,28 @@ This project aims to **predict crime severity** using **NYPD Complaint Data (Yea
 
 ---
 
-##  Installation and Usage
-1.  git clonegit clone git@github.com:Parlynx1/AIM5005-Crime-Analysis-Prediction-NYC.git
-2.  cd -Crime-Analysis-Prediction-NYC
+## 📦 Installation and Usage Guide
+
+## Prerequisites
+Before you begin, make sure you have the following installed on your system:
+- [Git](https://git-scm.com/downloads)
+- [Python 3.8+](https://www.python.org/downloads/)
+- [pip](https://pip.pypa.io/en/stable/installation/)
+
+---
+
+## Installation Steps
+
+1. **Clone the Repository**
+
+   Open your terminal or command prompt and run:
+
+   > git clone https://github.com/Parlynx1/AIM5005-Crime-Analysis-Prediction-NYC.git
+
+2. **Navigate into the Project Directory**
+
+   > cd AIM5005-Crime-Analysis-Prediction-NYC
+
+3. **Open  IDE editor**
+
+   > code .
